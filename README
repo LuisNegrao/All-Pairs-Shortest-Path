@@ -1,0 +1,3 @@
+Compile using "make"
+
+run using "npirun -n numberOfPrecesses ./fox < filewithmatrix"
